@@ -1,0 +1,9 @@
+vendor: Entrywan
+name: Entrywan Managed Kubernetes
+version: v1.28.0
+website_url: https://www.entrywan.com
+documentation_url: https://www.entrywan.com/docs
+product_logo_url: https://www.entrywan.com/img/entrywan.png
+type: hosted
+description: "Fully managed kubernetes clusters.  Single-click or API.  60 seconds and you're up and running."
+contact_email_address: product@entrywan.com
